@@ -1,9 +1,0 @@
-{
-  "short_name": "Mizan OS",
-  "name": "Mizan OS — Personal AI Operating System",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#2563eb",
-  "background_color": "#f1f5f9"
-}
